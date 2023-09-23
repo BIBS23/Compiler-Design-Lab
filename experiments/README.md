@@ -34,5 +34,6 @@
 # <a href="https://github.com/BIBS23/Compiler-Design-Lab/blob/main/experiments/exp4.l"> Exp4 </a>
 
 <h4>Write a lex program to find out the total number of vowels and consonants from the given input string.</h4>
+<h6> Type cntrl + d after putting input</h6>
 
 ![exp4](https://github.com/BIBS23/Compiler-Design-Lab/assets/83808936/79845bff-2dd7-453b-9b2e-e86a783f4443)
