@@ -49,7 +49,7 @@ goto {printf(" kwd");}
 int main(int argc, char **argv)
 {
 FILE *file;
-file=fopen("ex.c","r");
+file=fopen("input.c","r");
 if(!file)
 {
 printf("could not open the file");
