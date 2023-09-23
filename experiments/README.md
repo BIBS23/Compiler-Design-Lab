@@ -1,7 +1,7 @@
 
 
 # How to run program
-<h4>lex exp_name.l</h4>
+<a href="https://github.com/BIBS23/Compiler-Design-Lab/blob/main/experiments/exp1/exp1.l"><h4>lex exp_name.l</h4></a>
 <h4>cc lex.yy.c</h4>
 <h4>./a.out</h4>
 
