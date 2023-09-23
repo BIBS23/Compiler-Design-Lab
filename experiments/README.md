@@ -1,6 +1,6 @@
 
 
-#How to run program
+# How to run program
 <h4>lex exp_name.l</h4>
 <h4>cc lex.yy.c</h4>
 <h4>./a.out</h4>
