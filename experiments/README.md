@@ -37,3 +37,19 @@
 <h6> Type cntrl + d after putting input</h6>
 
 ![exp4](https://github.com/BIBS23/Compiler-Design-Lab/assets/83808936/79845bff-2dd7-453b-9b2e-e86a783f4443)
+
+
+
+# <a href="https://github.com/BIBS23/Compiler-Design-Lab/blob/main/experiments/exp5"> Exp5 </a>
+
+<h4>Generate a YACC specification to recognize a valid arithmetic expression that uses operators +, –, *,/, and parenthesis.</h4>
+<h6> yacc -d exp.y
+lex exp.l
+gcc lex.yy.c y.tab.c -lfl
+./a.out </h6>
+
+![exp5](https://github.com/BIBS23/Compiler-Design-Lab/assets/83808936/faa3d948-cb72-4a11-af4c-51ca2fc94588)
+
+
+
+
