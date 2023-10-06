@@ -50,6 +50,9 @@ gcc lex.yy.c y.tab.c -lfl
 
 ![exp5](https://github.com/BIBS23/Compiler-Design-Lab/assets/83808936/faa3d948-cb72-4a11-af4c-51ca2fc94588)
 
+# <a href="https://github.com/BIBS23/Compiler-Design-Lab/blob/main/experiments/exp6"> Exp6 </a>
+
+
 
 ![exp6](https://github.com/BIBS23/Compiler-Design-Lab/assets/83808936/fdbd00e0-bfc8-480c-b705-793ce3805e13)
 
